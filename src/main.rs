@@ -2,6 +2,7 @@
 use bevy::prelude::*;
 use crate::player::PlayerPlugin;
 
+mod map;
 mod player;
 
 fn main() {
