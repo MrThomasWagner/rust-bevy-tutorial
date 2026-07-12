@@ -8,8 +8,8 @@ use crate::map::{
 
 // -----------------  Configurable values ---------------------------
 /// Modify these values to control the map size.
-pub const GRID_X: u32 = 25;
-pub const GRID_Y: u32 = 18;
+pub const GRID_X: u32 = 50;
+pub const GRID_Y: u32 = 30;
 
 // ------------------------------------------------------------------
 
